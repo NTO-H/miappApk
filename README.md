@@ -1,4 +1,4 @@
-# TiendaEzquina
+# TiendaApp
 Descarga la aplicación siguiendo las indicaciones de la imagen que se muestra a continuación...
 
 Paso 1:Selecciona en el siguiente archivo apk.
