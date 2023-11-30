@@ -1,4 +1,2 @@
 # miappApk
-mi app
-Baja la aplicacion dando click en el icono de descarga...la siguiente imagen muestra como
-![imagen](https://github.com/Nikrovikey/miappApk/assets/134122438/1aeed0c3-dc66-4b88-9f2b-10da4802e9ea)
+Descarga la aplicación siguiendo las indicaciones de la imagen que se muestra a continuación...![red](https://github.com/Nikrovikey/miappApk/assets/134122438/3edd3763-cd0b-49d2-b217-2ad2ed3ce822)
