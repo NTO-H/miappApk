@@ -6,4 +6,4 @@ Paso 1:Selecciona en el siguiente archivo apk.
 
 
 Paso 2:continua como en la imagen...
-![imagen](https://github.com/Nikrovikey/miappApk/assets/134122438/7d1073e3-372e-4e9b-ac85-ce51453b8530)
+![imagen](https://github.com/Nikrovikey/miappApk/assets/134122438/2224b51a-558c-4a9e-8880-6f17be8c5d26)
