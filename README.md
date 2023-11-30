@@ -1,5 +1,5 @@
 # TiendaApp
-Descarga la aplicación siguiendo las indicaciones de la guía a continuación...
+Descarga la aplicación siguiendo las  indicaciones a continuación...
 
 Paso 1:Selecciona en el siguiente archivo apk.
 
